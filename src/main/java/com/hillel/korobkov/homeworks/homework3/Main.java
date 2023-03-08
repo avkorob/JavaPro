@@ -20,7 +20,7 @@ public class Main {
         char[] arr2 = str2.toCharArray();
 
         if (arr1.length != arr2.length) {
-            System.out.println("Not an anagramm");
+            System.out.println("Not an anagram");
             System.exit(0);
         }
         Arrays.sort(arr1);
@@ -30,7 +30,7 @@ public class Main {
 
 //        for (int i = 0; i < arr1.length; i++) {
 //            if (arr1[i] != arr2[i]){
-//                System.out.println("Not an anagramm");
+//                System.out.println("Not an anagram");
 //                System.exit(0);
 //            }
 //        }
