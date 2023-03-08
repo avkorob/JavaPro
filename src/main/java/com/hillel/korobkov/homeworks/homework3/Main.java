@@ -8,8 +8,8 @@ public class Main {
         String str1;
         String str2;
 
-        str1 = "Show must go on";
-        str2 = "On go must wosh";
+        str1 = "Friend";
+        str2 = "Finder";
         System.out.println("Input1 - " + str1);
         System.out.println("Input2 - " + str2);
 
